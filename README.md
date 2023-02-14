@@ -2,6 +2,10 @@
 
 ![Top Langs](https://github-readme-stats-dun-nu.vercel.app/api/top-langs/?username=amirhakimnejad&hide_progress=true&include_orgs=true&theme=radical&langs_count=10&count_private=true&hide=C,Objective-C%2B%2B,ShaderLab,Objective-C,Mustache,HLSL,GLSL,Ruby,Swift,PHP,Starlark,Shell,MATLAB,Smalltalk,CSS,HTML&custom_title=Languages)
 
-[The repo that made the stats happen](https://github.com/amirhakimnejad/github-readme-stats/tree/merge-orgs)
+![GitHub Streak](https://streak-stats.demolab.com?user=amirhakimnejad&theme=dark&hide_border=true)
 
-[Original repo](https://github.com/anuraghazra/github-readme-stats)
+[The repo that stats are hosted](https://github.com/amirhakimnejad/github-readme-stats/tree/merge-orgs)
+
+[Original stats repo](https://github.com/anuraghazra/github-readme-stats)
+
+[Streak repo](https://git.io/streak-stats)
