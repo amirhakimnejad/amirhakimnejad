@@ -4,8 +4,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amirhakimnejad&theme=dark&hide_border=true)
 
-[The repo that stats are hosted](https://github.com/amirhakimnejad/github-readme-stats/tree/merge-orgs)
-
 [Original stats repo](https://github.com/anuraghazra/github-readme-stats)
 
 [Streak repo](https://git.io/streak-stats)
